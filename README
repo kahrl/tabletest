@@ -1,0 +1,24 @@
+tabletest
+=========
+
+Minetest mod for testing formspec tables
+
+To get the node that contains the formspec tables, craft it using wooden planks:
+
+  - w -
+  w w w
+  - w -
+
+or type the command: /giveme tabletest:tabletest
+
+Place the node and right click it.
+
+
+
+Dependencies: default (minetest_game)
+
+Copyright © 2013 Kahrl <kahrl@gmx.net>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See the COPYING file for more details.
+

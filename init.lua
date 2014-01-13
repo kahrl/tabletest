@@ -96,11 +96,9 @@ function tabletest_formspec(selected)
 		formspec = formspec ..
 			"tableoptions[" ..
 			"color=#ff8000;" ..
-			"background=#036;" ..
-			"background_alpha=128;" ..
+			"background=#0368;" ..
 			"border=true;" ..
-			"highlight=#000080;" ..
-			"highlight_alpha=64;" ..
+			"highlight=#00008040;" ..
 			"highlight_text=#7fffff]" ..
 			"tablecolumns[" ..
 			"color;" ..
